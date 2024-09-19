@@ -12,4 +12,4 @@ bootstrap5 그리드시스템으로 빠른 반응형 제작 구현
 
 
 # UI
-  피그마주소: https://www.figma.com/design/MywfdxJutWnpRNa0EaUhrp/%EC%BD%94%EB%94%A9%EB%9F%AC%EC%89%AC_%EB%B8%8C%EB%9E%9C%EB%94%A9-%ED%8E%98%EC%9D%B4%EC%A7%80?node-id=0-1
+  피그마주소: 
