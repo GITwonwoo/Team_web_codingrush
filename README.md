@@ -19,4 +19,4 @@ bootstrap5 그리드시스템으로 빠른 반응형 제작 구현
 ...
 
 # UI
-  피그마주소: 
+  피그마주소: https://www.figma.com/design/Aw7jOFG239btKXJsnBIFYx/project_yunsul?node-id=0-1&node-type=canvas&t=DAzbxiXCBC42bjUg-0
